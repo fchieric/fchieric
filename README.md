@@ -1,13 +1,13 @@
 
-### <div align="left">Hi! I'm Fabiola</div>  
+### <div align="center">Hi! I'm Fabiola 🧚🏿‍♂️</div>  
   
 <div align="center">
 
-<p>I’m a CS student at 42 Roma LUISS and a junior developer</p>
+<p>I’m a CS student at 42 Roma LUISS and a junior developer. Currently a DevOps eng intern at <a href="https://www.ko2.it/">Ko2</a> 🌟</p>
 
 </br>
 
-## Github Stats
+## 42 Stats
 
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fchieric?1337Badge=off&UM6P=off" alt="fchieric's 42 stats" /></a>
 </div>  
