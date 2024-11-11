@@ -16,10 +16,10 @@
 
 ## Github Stats  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fchieric&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=fchieric&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fchieric&layout=compact&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fchieric&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <br/>
