@@ -2,7 +2,7 @@
   
 <div align="center">
 
-<p>I’m a CS student at 42 Roma Luiss and I hgave a MA im digital humanities. Currently a junior DevOps for <a href="https://www.ko2.it/">Ko2</a> 🌟</p>
+<p>I’m a CS student at 42 Roma Luiss and I have a MA im digital humanities. Currently a junior DevOps for <a href="https://www.ko2.it/">Ko2</a> 🌟</p>
 
 ## 42 Stats
 
