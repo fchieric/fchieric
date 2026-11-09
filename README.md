@@ -2,21 +2,4 @@
   
 <div align="center">
 
-<p>I’m a Devops at <a href="https://www.ko2.it/">Ko2</a> and I have a MA im digital humanities. 🌟</p>
-
-## 42 Stats
-
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fchieric?1337Badge=off&UM6P=off" alt="fchieric's 42 stats" /></a>
-</div>  
-
-</br>
-
-## Github Stats  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=fchieric&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fchieric&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br/>
+<p>I’m a DevOps at <a href="https://www.ko2.it/">Ko2</a> and I have a MA im digital humanities. 🌟</p>
