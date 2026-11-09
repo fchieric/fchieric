@@ -2,4 +2,4 @@
   
 <div align="center">
 
-<p>I’m a DevOps at <a href="https://www.ko2.it/">Ko2</a> and I have a MA im digital humanities. 🌟</p>
+<p>I’m a DevOps at <a href="https://www.ko2.it/">Ko2</a> and I have a MA im digital public humanities. 🌟</p>
